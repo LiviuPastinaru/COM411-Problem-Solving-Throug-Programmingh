@@ -1,1 +1,1 @@
-# COM411-Problem-Solving-Throug-Programmingh
+# COM411--Problem-Solving-Through
